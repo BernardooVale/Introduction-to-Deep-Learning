@@ -25,6 +25,9 @@ Projects and exercises developed for the **Introduction to Deep Learning** cours
 - **Regularization.ipynb** – *Applying Dropout and L2 Regularization*  
   Adds regularization techniques such as dropout and L2 penalty to mitigate overfitting in neural networks.
 
+- **VAE.ipynb** – *Creating a VAE with CNN*  
+  Implementing a variational autoencoder with convolutional neural networks to recreate clothing images
+
 ---
 # Introdução ao Aprendizado Profundo
 
@@ -52,6 +55,9 @@ Projetos e exercícios desenvolvidos para a disciplina de Introdução ao Aprend
 
 - **Regularization.ipynb** – *Adicionando Dropout e Regularização L2*  
   Aplica técnicas de regularização como dropout e penalidade L2 para reduzir o overfitting nas redes neurais.
+
+- **VAE.ipynb** – *Criando um VAE with CNN*  
+  Implementação de um variational autoencoder com redes neurais convolucionais para recriar imagens de roupas
 
 ---
 
